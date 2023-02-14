@@ -1,5 +1,5 @@
 <div align='center'>
-<img src = 'https://github.com/GoThereGit/ALT/blob/main/ALT2.png'>
+<img src = 'https://github.com/GoThereGit/ALT/blob/main/ALT1.png'>
 </div>
 # ALT2023
 ## Ancient Language Translation Workshop
