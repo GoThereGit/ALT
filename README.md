@@ -26,9 +26,9 @@ The workshop will consist of lectures, hands-on activities, and group discussion
 
 # Shared Tasks in the Workshop
 * Ancient Chinese Machine Translation Shared Task (https://github.com/GoThereGit/EvaHan)
-** Organizers: Dongbo Wang, Si Shen, Minxuan Feng, Chao Xu, Lianzhen Zhao, Bin Li
+* ** Organizers: Dongbo Wang, Si Shen, Minxuan Feng, Chao Xu, Lianzhen Zhao, Bin Li
 
 * Ancient Cuneiform Languages Machine Translation Shared Task (https://github.com/GoThereGit/EvaCUN) 
-** Organizers: Adam Anderson, Luis Sáenz, Morris Alper, Shai Gordin 
+* ** Organizers: Adam Anderson, Luis Sáenz, Morris Alper, Shai Gordin 
 
 
