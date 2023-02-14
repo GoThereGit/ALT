@@ -15,21 +15,20 @@ This workshop will provide an opportunity to learn about the challenges and late
 *	Notification of acceptance: June 25, 2023
 *	Camera Ready submission:  10 July 2023
 
-# Objectives: 
+# Objectives
 * Provide an overview of the current state of the field of ancient language machine translation.
 *	Discuss the challenges and limitations associated with translating texts written in ancient languages.
 *	Provide hands-on experience with machine translation tools and techniques for ancient languages.
 *	Foster discussion and collaboration among workshop participants to share experiences, knowledge, and insights.
 
-## Format: The workshop will consist of lectures, hands-on activities, and group discussions. Participants will work in groups to apply machine translation techniques to sample texts written in ancient languages.
+# Format
+The workshop will consist of lectures, hands-on activities, and group discussions. Participants will work in groups to apply machine translation techniques to sample texts written in ancient languages.
 
-##Shared Tasks in the Workshop
+#Shared Tasks in the Workshop
 * Ancient Chinese Machine Translation Shared Task (https://github.com/GoThereGit/EvaHan)
+## Organizers: Dongbo Wang, Si Shen, Minxuan Feng, Chao Xu, Lianzhen Zhao, Bin Li
 
-○	Organizers: Dongbo Wang, Si Shen, Minxuan Feng, Chao Xu, Lianzhen Zhao, Bin Li
-
-*Ancient Cuneiform Languages Machine Translation Shared Task (https://github.com/GoThereGit/EvaCUN) 
-
-○	Organizers: Adam Anderson, Luis Sáenz, Morris Alper, Shai Gordin 
+* Ancient Cuneiform Languages Machine Translation Shared Task (https://github.com/GoThereGit/EvaCUN) 
+## Organizers: Adam Anderson, Luis Sáenz, Morris Alper, Shai Gordin 
 
 
