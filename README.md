@@ -4,11 +4,17 @@
 
 ## important dates
 ●	Registration for the shared task: 15 Feb, 2023 ~ 25 March, 2023
+
 ●	Training data release: April 1, 2023
+
 ●	Test data release: June 1, 2023
+
 ●	Data submission : June 7, 2023
+
 ●	Tech report submission: June 15, 2023
+
 ●	Notification of acceptance: June 25, 2023
+
 ●	Camera Ready submission:  10 July 2023
 
 ## Objectives: The objectives of this workshop are to:
