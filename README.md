@@ -27,11 +27,11 @@ As a co-located event with MT-SUMMIT(https://mtsummit2023.scimeeting.cn/en/web/i
 The workshop will consist of lectures, hands-on activities, and group discussions. Participants will work in groups to apply machine translation techniques to sample texts written in ancient languages.
 
 # Shared Tasks in the Workshop
-* Ancient Chinese Machine Translation Shared Task (https://github.com/GoThereGit/EvaHan)
-* ** Organizers: Dongbo Wang, Si Shen, Minxuan Feng, Chao Xu, Lianzhen Zhao, Bin Li
+- Ancient Chinese Machine Translation Shared Task (https://github.com/GoThereGit/EvaHan)
+  - Organizers: Dongbo Wang, Si Shen, Minxuan Feng, Chao Xu, Lianzhen Zhao, Bin Li
 
-* Ancient Cuneiform Languages Machine Translation Shared Task (https://github.com/GoThereGit/EvaCUN) 
-* ** Organizers: Adam Anderson, Luis Sáenz, Morris Alper, Shai Gordin 
+- Ancient Cuneiform Languages Machine Translation Shared Task (https://github.com/GoThereGit/EvaCUN) 
+  - Organizers: Adam Anderson, Luis Sáenz, Morris Alper, Shai Gordin 
 
 # Oganizers
 * Dr. Shai Gordin (shaigo@ariel.ac.il), Ariel University, Israel.
