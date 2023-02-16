@@ -35,7 +35,7 @@ The workshop will consist of lectures, hands-on activities, and group discussion
 
 # Oganizers
 * Dr. Shai Gordin (shaigo@ariel.ac.il), Ariel University, Israel.
-* Dr. Bin Li (lib@njnu.edu.cn), Nanjing Normal University, China
+* Dr. Bin Li (lib@njnu.edu.cn), Nanjing Normal University, China.
 
 # Programme Commitee
 * Masayuki Asahara, National Institute for Japanese Language and Linguistics, Japan (pending)
