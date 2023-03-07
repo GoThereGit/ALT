@@ -28,7 +28,7 @@ Macau SAR, China on Sep 4, 2023, @MT-SUMMIT2023
   - Organizers: Adam Anderson, Luis Sáenz, Morris Alper, Shai Gordin 
 
 # How to Participate
-* Each participant team has to register in the shared tasks papges above.
+* Each participant team has to register in the shared tasks pages above.
 * Download the training data after April 15, 2023.
 * Submit running results before June 7, 2023.
 * Submit technique report before June 15, 2023.
