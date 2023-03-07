@@ -31,6 +31,8 @@ Macau SAR, China on Sep 4, 2023, @MT-SUMMIT2023
 * Download the training data after April 15, 2023.
 * Submit running results before June 7, 2023.
 * Submit technique report before June 15, 2023.
+* Attend workshop in-person or online on Spet. 4, 2023.
+* For any questions, please contact the oganizers.
 
 # Oganizers
 * Dr. Shai Gordin (shaigo@ariel.ac.il), Ariel University, Israel.
