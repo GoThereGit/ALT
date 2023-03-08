@@ -9,15 +9,15 @@ Macau SAR, China on Sep 4, 2023, @MT-SUMMIT2023
 
 # Introduction
 * As a co-located event at MT-SUMMIT(https://mtsummit2023.scimeeting.cn/en/web/index/), this workshop aims to provide an opportunity for practitioners and scholars of interest to learn about the challenges and latest developments in the field of machine translation for ancient languages. Participants will engage in discussions and hands-on activities to develop a deeper understanding of the field and the techniques used to address the unique challenges posed by translating texts written in ancient languages. 
-* To achieve this goal, for this year’s workshop, we propose **two shared tasks on Machine Translation** for Ancient Chinese and Cuneiform languages (including Akkadian and Sumerian), respectively. Each participating team is required to submit the result on their registered shared task(s), and a technique report is required to submit after the evaluation. All papers will be reviewed, and will be selected to appear on **ACL Anthology**. 
-* **Please note** that the workshop only accepts the papers by the participating teams of one or two of the designated shared tasks. Any other related work is strongly recommended to sumbit to events such as the 1st Workshop of Ancient Language Processing (https://www.ancientnlp.com/alp2023/) at RANLP 2013.  
+* To achieve this goal, for this year’s workshop, we propose **two shared tasks on Machine Translation** for Ancient Chinese and Cuneiform languages (including Akkadian and Sumerian), respectively. Each participating team is required to submit the result on their registered shared task(s), and a technical report is required to submit after the evaluation. All papers will be peer-reviewed, and will be selected to appear on **ACL Anthology** (https://aclanthology.org). 
+* **Please note** that the workshop only accepts the papers that participate in one or two of the designated shared tasks. Any other related work is strongly recommended to sumbit to events such as the 1st Workshop of Ancient Language Processing (https://www.ancientnlp.com/alp2023/) at RANLP 2013.  
 
 # Important dates
 *	Registration for the shared task: **March 15 - April 15, 2023**
 *	Training data release: **April 15, 2023**
 * Test data release: **June 1, 2023**
 * Result submission: **June 7, 2023**
-*	Tech report submission: **June 15, 2023**
+*	Technical report submission: **June 15, 2023**
 *	Notification of acceptance: **June 25, 2023**
 *	Camera-ready paper submission:  **July 10, 2023**
 
