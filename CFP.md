@@ -8,20 +8,20 @@
 Macau SAR, China on Sep 4, 2023, @MT-SUMMIT2023
 
 # Introduction
-* As a co-located event with MT-SUMMIT(https://mtsummit2023.scimeeting.cn/en/web/index/), this workshop will provide an opportunity to learn about the challenges and latest developments in the field of machine translation for ancient languages. Participants will engage in discussions and hands-on activities to develop a deeper understanding of the field and the techniques used to address the unique challenges posed by translating texts written in ancient languages. 
-* In this year’s workshop, we propose **two shared tasks on Machine Translation** for Ancient Chinese and Cuneiform language(like Akkadian and Sumerian), respectively, to provide an opportunity to address the unique challenges faced by ancient language machine translation. The technique report papers are required to submit after the evaluation. All papers will be reviewed, and will be selected to appear on **ACL Anthology**. 
-* **Notice**: the workshop only accepts the papers for the two shared tasks. In other words, only the participants of the two shared tasks could submit papers. Other general papers are recommanded to sumbit to other events like https://www.ancientnlp.com/alp2023/. 
+* As a co-located event with MT-SUMMIT(https://mtsummit2023.scimeeting.cn/en/web/index/), this workshop aims to provide an opportunity for practitioners and scholars of interest to learn about the challenges and latest developments in the field of machine translation for ancient languages. Participants will engage in discussions and hands-on activities to develop a deeper understanding of the field and the techniques used to address the unique challenges posed by translating texts written in ancient languages. 
+* To achieve this goal, for this year’s workshop, we propose **two shared tasks on Machine Translation** for Ancient Chinese and Cuneiform languages (including Akkadian and Sumerian), respectively. Each participating team is required to submit the result on their registered shared task(s), and a technique report is required to submit after the evaluation. All papers will be reviewed, and will be selected to appear on **ACL Anthology**. 
+* **Please note** that the workshop only accepts the papers by the participating teams of one or two of the designated shared tasks. Any other related work is strongly recommended to sumbit to events such as the 1st Workshop of Ancient Language Processing (https://www.ancientnlp.com/alp2023/) at RANLP 2013.  
 
 # Important dates
-*	Registration for the shared task: 15 March, 2023 ~ 15 April, 2023
-*	Training data release: April 15, 2023
-* Test data release: June 1, 2023
-* Data submission : June 7, 2023
-*	Tech report submission: June 15, 2023
-*	Notification of acceptance: June 25, 2023
-*	Camera Ready submission:  10 July 2023
+*	Registration for the shared task: **March 15 - April 15, 2023**
+*	Training data release: **April 15, 2023**
+* Test data release: **June 1, 2023**
+* Result submission: **June 7, 2023**
+*	Tech report submission: **June 15, 2023**
+*	Notification of acceptance: **June 25, 2023**
+*	Camera-ready paper submission:  **July 10, 2023**
 
-# Shared Tasks in the Workshop
+# The two shared Tasks
 - Ancient Chinese Machine Translation Shared Task (https://github.com/GoThereGit/EvaHan)
   - Organizers: Dongbo Wang, Si Shen, Minxuan Feng, Chao Xu, Lianzhen Zhao, Bin Li
 
@@ -29,11 +29,11 @@ Macau SAR, China on Sep 4, 2023, @MT-SUMMIT2023
   - Organizers: Adam Anderson, Luis Sáenz, Morris Alper, Shai Gordin 
 
 # How to Participate
-* Each participant team has to register in the shared tasks pages above.
+* Each participating team needs to register through the shared tasks pages above during March 15 to April 15, 2023.
 * Download the training data after April 15, 2023.
-* Submit running results before June 7, 2023.
-* Submit technique report before June 15, 2023.
-* Attend workshop in-person or online on Spet. 4, 2023.
+* Submit the result by June 7, 2023.
+* Submit the technical report by June 15, 2023.
+* Attend workshop in-person or online on September 4, 2023.
 * For any questions, please contact the oganizers.
 
 # Oganizers
