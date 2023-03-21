@@ -26,7 +26,7 @@ Macau SAR, China on Sep 4, 2023, @MT-SUMMIT2023
   - Organizers: Dongbo Wang, Si Shen, Minxuan Feng, Chao Xu, Lianzhen Zhao, Bin Li
 
 - Ancient Cuneiform Languages Machine Translation Shared Task (https://github.com/GoThereGit/EvaCUN) 
-  - Organizers: Adam Anderson, Luis Sáenz, Morris Alper, Shai Gordin 
+  - Organizers: Stav Klein, Kostiya Margulyan, Luis Sáenz, Danielle Kapon Epshtain, Tina Chen, Adam Anderson, Shai Gordin
 
 # How to Participate
 * Each participating team needs to register through the shared tasks pages above during March 15 to April 15, 2023.
